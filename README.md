@@ -1,2 +1,1 @@
-# BMT
-# БМТ2 лучшие!!!
+# banner-mode: off 
